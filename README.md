@@ -16,9 +16,10 @@ Confirme a URL apresentada pelo GitHub e abra a página sem login antes de utili
 
 - `index.html`: página e texto da política.
 - `styles.css`: estilos responsivos, navegação e impressão.
+- `contact.js`: cópia do e-mail e melhorias de navegação.
 - `assets/`: identidade visual original do Gatu.
 - `.nojekyll`: publicação direta dos arquivos estáticos.
 
-Sem dependências de build, JavaScript, formulários, cookies próprios ou analytics. O GitHub Pages é o provedor de hospedagem, conforme descrito na política.
+Sem dependências de build, formulários, cookies próprios ou analytics. JavaScript local oferece cópia do e-mail, impressão e navegação acessível. Contato por Gmail abre uma nova aba, sem enviar mensagem automaticamente. O GitHub Pages é o provedor de hospedagem, conforme descrito na política.
 
 Este repositório contém a página pública de privacidade. O código do aplicativo e os materiais de QA da LG ficam no projeto de desenvolvimento.
